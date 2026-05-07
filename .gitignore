@@ -1,0 +1,19 @@
+# Go build and test output
+bin/
+build/
+dist/
+*.test
+*.out
+coverage.out
+
+# Local Go cache used in README examples
+.gocache/
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Local environment files
+.env
+.env.*
